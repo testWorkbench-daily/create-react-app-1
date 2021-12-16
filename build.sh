@@ -1,3 +1,3 @@
-yarn config set registry https://registry.npmjs.org --global
+yarn config set ignore-engines true
 yarn
 yarn build
