@@ -1,3 +1,2 @@
-yarn config set ignore-engines true
-yarn
-yarn build
+npm install 
+npm build
